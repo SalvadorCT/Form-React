@@ -1,0 +1,25 @@
+.formlogin{
+    width: 527px;
+    height: 450px;
+}
+.login{
+    width:100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.formc{
+    
+    background-clip: padding-box;
+    width: 15px;
+    height: 15px;
+}
+@media only screen and (max-width:600px){
+    .formlogin{
+        max-width: 90%;
+        height: auto;
+    }
+    .form-label{
+        width: 80%;
+    }
+}
