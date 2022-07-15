@@ -12,7 +12,7 @@ function App() {
     <>
     <Headerlogin />
     <Access/>
-    <Form/>
+    <Pform/>
     <Extra/>
     <Footer/>
     </>
